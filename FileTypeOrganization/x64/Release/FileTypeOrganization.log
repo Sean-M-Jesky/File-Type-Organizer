@@ -1,0 +1,10 @@
+﻿  fsHelper.cpp
+  linked_list.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 805 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FileTypeOrganization.vcxproj -> C:\Users\jesky\dsource\repos\FileTypeOrganization\x64\Release\FileTypeOrganization.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
